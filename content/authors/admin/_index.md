@@ -55,7 +55,7 @@ work:
   - position: Investor Relations Assistant
     company_name: Solaires Entreprises Inc.
     company_url: 'https://www.solaires.net/'
-    company_logo: ''
+    company_logo: /custom/solaires_logo.png
     date_start: 2024-09-01
     date_end: ''
     summary: |2-
@@ -71,7 +71,7 @@ work:
   - position: Business Operations Analyst
     company_name: Invartis Ltd.
     company_url: 'https://invartis.com/'
-    company_logo: ''
+    company_logo: /custom/invartis_logo.jpeg
     date_start: 2024-06-13
     date_end: 2020-08-26
     summary: |
@@ -99,26 +99,42 @@ skills:
         description: ''
         percent: 100
         icon: devicon/rstudio
-      - name: PyTorch
+      - name: Excel
+        description: ''
+        percent: 75
+        icon: hero/table-cells
+      - name: Java
         description: ''
         percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+        icon: devicon/java
+      - name: Julia
+        description: ''
+        percent: 50
+        icon: devicon/julia
+      - name: SQL
+        description: ''
+        percent: 65
+        icon: devicon/azuresqldatabase
+  - name: ''
+    color: ''
+    color_border: ''
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+      - name: Statistical Methods
         description: ''
         percent: 80
-        icon: camera
+        icon: /custom/statistics.jpg
+      - name: Machine Learning
+        description: ''
+        percent: 70
+        icon: /custom/machine_learning_icon.jpg
+      - name: Data Analysis
+        description: ''
+        percent: 90
+        icon: /custom/data_analysis_icon.jpg
+      - name: Financial Analysis
+        description: ''
+        percent: 80
+        icon: hero/document-currency-dollar
 
 languages:
   - name: English
