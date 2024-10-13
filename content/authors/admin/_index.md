@@ -149,12 +149,19 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Asset Management Level 3
+    url: https://www.intuition.com/
+    date: '2024-08-01'
+    awarder: Intuition KHX
+    icon: ''
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Learned the Basics of the asset management career and financial industry. Gained skills in areas such as Time Value of Money, Technical Analysis, Economic Analysis, Quantitative Trading, and Risk Management. 
+  - title: CFA Level I Candidate
+    url: https://www.cfainstitute.org/
+    date: '2025-02-17'
+    awarder: CFA Institute
+    icon: ''
+    summary: |
+      Preparing for upcoming CFA Exam.
 ---
 
