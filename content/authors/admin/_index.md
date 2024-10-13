@@ -55,7 +55,7 @@ work:
   - position: Investor Relations Assistant
     company_name: Solaires Entreprises Inc.
     company_url: 'https://www.solaires.net/'
-    company_logo: /custom/solaires_logo.png
+    company_logo: 'custom/solaires_logo'
     date_start: 2024-09-01
     date_end: ''
     summary: |2-
@@ -71,7 +71,7 @@ work:
   - position: Business Operations Analyst
     company_name: Invartis Ltd.
     company_url: 'https://invartis.com/'
-    company_logo: /custom/invartis_logo.jpeg
+    company_logo: 'custom/invartis_logo'
     date_start: 2024-06-13
     date_end: 2020-08-26
     summary: |
@@ -122,15 +122,15 @@ skills:
       - name: Statistical Methods
         description: ''
         percent: 80
-        icon: /custom/statistics.jpg
+        icon: 'custom/statistics'
       - name: Machine Learning
         description: ''
         percent: 70
-        icon: /custom/machine_learning_icon.jpg
+        icon: 'custom/machine_learning_icon'
       - name: Data Analysis
         description: ''
         percent: 90
-        icon: /custom/data_analysis_icon.jpg
+        icon: 'custom/data_analysis_icon'
       - name: Financial Analysis
         description: ''
         percent: 80
