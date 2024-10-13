@@ -89,7 +89,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: ''
     items:
       - name: Python
         description: ''
@@ -111,14 +111,14 @@ skills:
         description: ''
         percent: 50
         icon: devicon/julia
-      - name: SQL
-        description: ''
-        percent: 65
-        icon: devicon/azuresqldatabase
   - name: ''
     color: ''
     color_border: ''
     items:
+      - name: SQL
+        description: ''
+        percent: 65
+        icon: devicon/azuresqldatabase
       - name: Statistical Methods
         description: ''
         percent: 80
