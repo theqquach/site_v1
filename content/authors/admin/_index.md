@@ -1,99 +1,90 @@
 ---
 # Display name
-title: 吳健雄
+title: Alexander (Thê) Quach
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Alexander
+last_name: Quach
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Financial Data Analyst
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: University of British Columbia
+    url: https://www.ubc.ca/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:theqquach@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/theqquach
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/thequach
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Combined Major in Statistics and Economics
+    institution: University of British Columbia
+    date_start: 2021-09-01
+    date_end: 2026-05-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 79.3%
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Currently pursuing a Bachelor of Science with a combined major in Statistics and Economics, and a minor in Data Science. My coursework includes statistical methods, economic theory, econometrics, computer science, and finance, providing a strong foundation in data analysis and its application to economic and financial decision-making.
+  - area: Master's of Management
+    institution: UBC Sauder School of Business
+    date_start: 2021-09-01
+    date_end: 2026-11-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+      Currently pursuing a Master's of Management dual degree at UBC Sauder School of Business. The program includes foundational courses in business core fundamentals, covering areas like finance, marketing, and operations as well as graduate courses in project management, business development, and two-part negotiations.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Investor Relations Assistant
+    company_name: Solaires Entreprises Inc.
+    company_url: 'https://www.solaires.net/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-09-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      Responsibilities included:
+      - Supported the fundraising efforts of the company by conducting research and generating documentation prior to investor meetings.
+      - Assisted with the required documents by investors.
+      - Identified, applied, and coordinated participation in pitch events.
+      - Built connections with the climate venture capital and sustainable energy community.
+      - Supported the creation and management of company documents for the Data Room.
+      - Created pitch deck presentations and new relevant slides.
+      - Conducted research and studies relevant to investors' needs.
+
+  - position: Business Operations Analyst
+    company_name: Invartis Ltd.
+    company_url: 'https://invartis.com/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-06-13
+    date_end: 2020-08-26
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Responsibilities included:
+      - Supported the senior consultants in various teams such as the consulting team, business development, and HR department. 
+      - Identified the consultants’ key skills and created a skill-expertise matrix to evaluate potential hires. 
+      - Conducted research on 3 different RFP software to identify the best option for Invartis. Evaluated the differences to enhance efficiency.
+      - Created a skill-experience matrix to identify the team’s strengths and weaknesses to guide future recruitment and create a more well-rounded team. 
+      - Participated in workshops discussing business development.
+      - Designed a data model in preparation for an asset market analysis.
+      - Identified key points in the recruitment pipeline and creating a program to streamline the hiring process.
+      - Researched various asset managers and asset owners to better understand the market and improve the quality of Invartis' client pitches.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -169,4 +160,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+''
