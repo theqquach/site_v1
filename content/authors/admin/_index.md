@@ -41,8 +41,7 @@ education:
     date_start: 2021-09-01
     date_end: 2026-05-31
     summary: |
-      GPA: 79.3%
-
+  
       Currently pursuing a Bachelor of Science with a combined major in Statistics and Economics, and a minor in Data Science. My coursework includes statistical methods, economic theory, econometrics, computer science, and finance, providing a strong foundation in data analysis and its application to economic and financial decision-making.
   - area: Master's of Management
     institution: UBC Sauder School of Business
@@ -73,7 +72,7 @@ work:
     company_url: 'https://invartis.com/'
     company_logo: ''
     date_start: 2024-06-13
-    date_end: 2020-08-26
+    date_end: 2024-08-26
     summary: |
       Responsibilities included:
       - Supported the senior consultants in various teams such as the consulting team, business development, and HR department. 
