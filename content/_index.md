@@ -5,13 +5,13 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "4rem"
+  spacing: '5rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
 # Page sections
 sections:
-  - block: biography
+  - block: resume-biography-2
     content:
       username: admin
       # Show a call-to-action button under your biography? (optional)
@@ -21,28 +21,8 @@ sections:
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+        filename: background.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: experience
-    content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: true
-  - block: skills
-    content:
-      title: Technical Skills
-      username: admin
-  - block: awards
-    content:
-      title: Awards & Certifications
-      username: admin
-  - block: languages
-    content:
-      title: Languages
-      username: admin
 ---
